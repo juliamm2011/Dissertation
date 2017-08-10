@@ -1,6 +1,6 @@
 # Dissertation
 
-R files in this repo perform data management, exploration, and modeling for Chapter 1 and 2 of my dissertation. 
+R files in this repo perform data management, exploration, and modeling for Chapters 1 and 2 of my dissertation. 
 
 ## Getting Started
 
